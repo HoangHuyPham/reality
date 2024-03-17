@@ -1,5 +1,6 @@
+import drawgui
 def main():
-    print(f"e{10}")
+    drawgui.drawMenu()
     
 if __name__ == "__main__":
     main()
